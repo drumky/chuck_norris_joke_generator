@@ -1,0 +1,15 @@
+body {
+  margin-top: 100px;
+  background-color: #aacfcf;
+  text-align: center;
+}
+
+.get-jokes {
+  margin-top: 20px;
+  background-color: #679b9b;
+  color: white;
+}
+
+#number {
+  margin-top: 20px;
+}
